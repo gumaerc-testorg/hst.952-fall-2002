@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 7ae67581-2373-6f35-72ca-172472cdbe88
 ---
@@ -46,7 +49,7 @@ Algorithms and Object Oriented Programming ([PDF]({{< baseurl >}}/resources/lect
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Java® Constructs ([PDF]({{< baseurl >}}/resources/lecture3))
+Java{{< sup "®" >}} Constructs ([PDF]({{< baseurl >}}/resources/lecture3))
 {{< tdclose >}}
 
 {{< trclose >}}

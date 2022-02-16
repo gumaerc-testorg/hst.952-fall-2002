@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 17b0b975-a12e-66ed-2e4b-64783022d500
 ---
@@ -46,7 +48,7 @@ Algorithms and Object Oriented Programming
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Java® Constructs
+Java{{< sup "®" >}} Constructs
 {{< tdclose >}}
 
 {{< trclose >}}

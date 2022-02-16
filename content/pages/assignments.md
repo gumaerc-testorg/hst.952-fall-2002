@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4e59c3de-1be5-d8e1-f702-c8efae26ca48
 ---
@@ -55,7 +58,7 @@ Algorithms and Object Oriented Programming
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Java® Constructs
+Java{{< sup "®" >}} Constructs
 {{< tdclose >}}
 {{< tdopen >}}
  
