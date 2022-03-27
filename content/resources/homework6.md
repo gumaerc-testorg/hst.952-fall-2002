@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e59c3de-1be5-d8e1-f702-c8efae26ca48
 resourcetype: Document
 title: homework6.pdf
 uid: 995a9f35-9aa6-9d61-cae0-090bcb3d45bd

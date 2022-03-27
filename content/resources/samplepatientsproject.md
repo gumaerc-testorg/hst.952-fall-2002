@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a99b1d86-cd2c-a02b-b535-35c7c23cc0a8
 resourcetype: Document
 title: samplepatientsproject.pdf
 uid: 8c19843f-e8a6-4bdc-652f-3b323e8305ba
