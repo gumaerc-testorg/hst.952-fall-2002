@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ Topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course Overview ([PDF]({{< baseurl >}}/resources/lecture1))
+Course Overview ({{% resource_link c492d8dc-0c03-6c06-d5a4-cbff320523ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +41,7 @@ Course Overview ([PDF]({{< baseurl >}}/resources/lecture1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Algorithms and Object Oriented Programming ([PDF]({{< baseurl >}}/resources/lecture2))
+Algorithms and Object Oriented Programming ({{% resource_link 23c4fbe7-342a-97be-824b-068a0ad1910e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Algorithms and Object Oriented Programming ([PDF]({{< baseurl >}}/resources/lect
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Java{{< sup "®" >}} Constructs ([PDF]({{< baseurl >}}/resources/lecture3))
+Java{{< sup "®" >}} Constructs ({{% resource_link d2425ce6-2235-26e9-bb81-0dc17132b54f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ Java{{< sup "®" >}} Constructs ([PDF]({{< baseurl >}}/resources/lecture3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Built-in Operators, Built-in Java Classes, and Classes, Objects & Methods ([PDF]({{< baseurl >}}/resources/lecture4))
+Built-in Operators, Built-in Java Classes, and Classes, Objects & Methods ({{% resource_link fba34522-84ed-f60b-021d-66081db43bc5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Built-in Operators, Built-in Java Classes, and Classes, Objects & Methods ([PDF]
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Recursion and Iteration, Imperative & Declarative Programming, Abstract Data Types (ADTs), Arrays, and Classes, Object & Methods (continued) ([PDF]({{< baseurl >}}/resources/lecture5))
+Recursion and Iteration, Imperative & Declarative Programming, Abstract Data Types (ADTs), Arrays, and Classes, Object & Methods (continued) ({{% resource_link a3e515ac-fc44-ae7d-5a52-493504e328a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +77,7 @@ Recursion and Iteration, Imperative & Declarative Programming, Abstract Data Typ
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Designing Methods, Wrapper Classes, Arrays, Packages, Inheritance, Derived Classes, and Dynamic Binding ([PDF]({{< baseurl >}}/resources/lecture6))
+Designing Methods, Wrapper Classes, Arrays, Packages, Inheritance, Derived Classes, and Dynamic Binding ({{% resource_link 2fff8255-d9ea-69aa-c1e3-0dd684ba1574 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ Designing Methods, Wrapper Classes, Arrays, Packages, Inheritance, Derived Class
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Information Hiding, Exceptions ([PDF]({{< baseurl >}}/resources/lecture7))
+Information Hiding, Exceptions ({{% resource_link b98a8f14-6438-d4fb-f9a0-7c82f313b344 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,8 +95,8 @@ Information Hiding, Exceptions ([PDF]({{< baseurl >}}/resources/lecture7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Vectors, Streams, Input and Output ([PDF]({{< baseurl >}}/resources/lecture8))  
-Lecture 8 Code ([ZIP]({{< baseurl >}}/resources/code_lecture8)) (zip file includes: TestRotation2.java, TestVector2.java, RotateText.java, KeyboardInput.java, TestSimpleParser.java, TestRotation.java, TestVector.java, and Medinfo.txt)
+Vectors, Streams, Input and Output ({{% resource_link e1a33c4c-57ec-c914-3d37-054cc7350e68 "PDF" %}})  
+Lecture 8 Code ({{% resource_link cc308d7f-2e74-f7a0-1bfb-7de8eadf6021 "ZIP" %}}) (zip file includes: TestRotation2.java, TestVector2.java, RotateText.java, KeyboardInput.java, TestSimpleParser.java, TestRotation.java, TestVector.java, and Medinfo.txt)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,8 +105,8 @@ Lecture 8 Code ([ZIP]({{< baseurl >}}/resources/code_lecture8)) (zip file includ
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Searching and Sorting ([PDF]({{< baseurl >}}/resources/lecture9))  
-Lecture 9 Code ([ZIP]({{< baseurl >}}/resources/code_lecture9)) (zip file includes: TestBinarySearch.java, TestMergeSort.java, and TestSelectionSort.java)
+Searching and Sorting ({{% resource_link f7d8197c-fbcb-e801-d362-9a8e106c28dc "PDF" %}})  
+Lecture 9 Code ({{% resource_link d55646e2-898e-b82c-77f0-05ca66dd500e "ZIP" %}}) (zip file includes: TestBinarySearch.java, TestMergeSort.java, and TestSelectionSort.java)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +115,7 @@ Lecture 9 Code ([ZIP]({{< baseurl >}}/resources/code_lecture9)) (zip file includ
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Time Complexity of Algorithms ([PDF]({{< baseurl >}}/resources/lecture10))
+Time Complexity of Algorithms ({{% resource_link 00ca853e-5c8c-3bbc-aac7-fb5a3394ace0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,8 +124,8 @@ Time Complexity of Algorithms ([PDF]({{< baseurl >}}/resources/lecture10))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Review Session ([PDF]({{< baseurl >}}/resources/lecture11))  
-Review Session Solutions ([PDF]({{< baseurl >}}/resources/lecture11solutions))
+Review Session ({{% resource_link a1f6c08d-9bbe-ce96-81a8-5422d5243138 "PDF" %}})  
+Review Session Solutions ({{% resource_link 2e3972ee-77f6-32aa-2d2e-7c7cd09f02f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +140,7 @@ Review Session Solutions ([PDF]({{< baseurl >}}/resources/lecture11solutions))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Logic and Medical Ontology ([PDF]({{< baseurl >}}/resources/lecture12))
+Logic and Medical Ontology ({{% resource_link 92d97d85-1c0a-84f6-b75b-775b028b5d89 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +149,7 @@ Logic and Medical Ontology ([PDF]({{< baseurl >}}/resources/lecture12))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Boolean Algebra and Predicate Knowledge ([PDF]({{< baseurl >}}/resources/lecture13))
+Boolean Algebra and Predicate Knowledge ({{% resource_link 4a3853dc-da2b-83b3-68fe-13b6f5821259 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Boolean Algebra and Predicate Knowledge ([PDF]({{< baseurl >}}/resources/lecture
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Ontology and Data Model ([PDF]({{< baseurl >}}/resources/lecture14))
+Ontology and Data Model ({{% resource_link d61c96c1-0b8c-1f37-2a48-8f92dde5fc6e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +167,7 @@ Ontology and Data Model ([PDF]({{< baseurl >}}/resources/lecture14))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Medical Vocabulary Representation and Survey of Medical Coding Systems ([PDF]({{< baseurl >}}/resources/lecture15))
+Medical Vocabulary Representation and Survey of Medical Coding Systems ({{% resource_link b217750f-ee00-b7cc-0ae5-c35e90386f95 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +176,7 @@ Medical Vocabulary Representation and Survey of Medical Coding Systems ([PDF]({{
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Medical Coding Systems (continued) and UMLS ([PDF]({{< baseurl >}}/resources/lecture16))
+Medical Coding Systems (continued) and UMLS ({{% resource_link 7bcf933f-04ac-2479-19db-8d1f1cbd875b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +185,7 @@ Medical Coding Systems (continued) and UMLS ([PDF]({{< baseurl >}}/resources/lec
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Major KR Schemes ([PDF]({{< baseurl >}}/resources/lecture17))
+Major KR Schemes ({{% resource_link 0d20d21d-e834-70b0-045d-8b7d47ebf21d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +194,7 @@ Major KR Schemes ([PDF]({{< baseurl >}}/resources/lecture17))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Process ([PDF]({{< baseurl >}}/resources/lecture18))
+Process ({{% resource_link 3111e537-f5ef-6b44-d186-17f6a0cf21ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
