@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -85,7 +86,7 @@ Built-in Operators, Built-in Java Classes, and Classes, Objects & Methods
 Recursion and Iteration, Imperative & Declarative Programming, Abstract Data Types (ADTs), Arrays, and Classes, Object & Methods (continued)
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #1 ([PDF]({{< baseurl >}}/resources/homework1))
+Homework #1 ({{% resource_link 54f504ca-b9f8-0393-0b6a-70e0c0284459 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +110,7 @@ Designing Methods, Wrapper Classes, Arrays, Packages, Inheritance, Derived Class
 Information Hiding, Exceptions
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #2 ([PDF]({{< baseurl >}}/resources/homework2))
+Homework #2 ({{% resource_link afbbfbfd-fa9e-ee96-4e6f-5d8254bf1744 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,8 +134,8 @@ Vectors, Streams, Input and Output
 Searching and Sorting
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #3 ([PDF]({{< baseurl >}}/resources/homework3))  
-Stubs for Homework #3 ([PDF]({{< baseurl >}}/resources/homework3stub))
+Homework #3 ({{% resource_link 77fb25d6-3857-9a01-ac8f-c711fd67f483 "PDF" %}})  
+Stubs for Homework #3 ({{% resource_link 316289d8-7143-8836-5878-a0e43346e0db "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +159,7 @@ Time Complexity of Algorithms
 Review Session
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #4 ([PDF]({{< baseurl >}}/resources/homework4))
+Homework #4 ({{% resource_link b33df840-e7ae-fc90-4262-89971657130a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,8 +201,8 @@ Boolean Algebra and Predicate Knowledge
 Ontology and Data Model
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #5 ([PDF]({{< baseurl >}}/resources/homework5))  
-Homework #5 Attachments ([PDF]({{< baseurl >}}/resources/homework5attachments))
+Homework #5 ({{% resource_link 4ada05d4-439d-5a5e-ea7f-d80b51664fb6 "PDF" %}})  
+Homework #5 Attachments ({{% resource_link eaef5158-b18f-7d1d-15a9-5688ef56fa08 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +226,7 @@ Medical Vocabulary Representation and Survey of Medical Coding Systems
 Medical Coding Systems (continued) and UMLS
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #6 ([PDF]({{< baseurl >}}/resources/homework6))
+Homework #6 ({{% resource_link 995a9f35-9aa6-9d61-cae0-090bcb3d45bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +250,7 @@ Major KR Schemes
 Process
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #7 ([PDF]({{< baseurl >}}/resources/homework7))
+Homework #7 ({{% resource_link 46c657e4-3855-b6e1-69d4-596e290641c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -291,7 +292,7 @@ Data Models
 Maintaining Integrity of Data
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #8 Due ([PDF]({{< baseurl >}}/resources/homework8))
+Homework #8 Due ({{% resource_link 2e3f67bf-b9c6-9001-22e0-a51ddc79ed96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,8 +316,8 @@ Implementing a Relational Database
 Overview of Object Oriented Data Management
 {{< tdclose >}}
 {{< tdopen >}}
-Homework #9 Due ([PDF]({{< baseurl >}}/resources/homework9))  
-Homework #9 Sample Patient Data ([PDF]({{< baseurl >}}/resources/homework9sample))
+Homework #9 Due ({{% resource_link e3c3c4a4-cb7b-11c6-8b79-887dc1e231a9 "PDF" %}})  
+Homework #9 Sample Patient Data ({{% resource_link 64dfc818-9514-4602-e6a4-26a5b710ffa6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -340,7 +341,7 @@ Modeling for Analytical Processing of Data
 No Lecture, Final Project Due
 {{< tdclose >}}
 {{< tdopen >}}
-Final Project Description ([PDF]({{< baseurl >}}/resources/project))
+Final Project Description ({{% resource_link 53529b61-3695-45ea-1da0-f8f522f8e558 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
