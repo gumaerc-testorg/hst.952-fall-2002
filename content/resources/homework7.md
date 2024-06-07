@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignments: homework-7 Process'
 file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/46c657e43855b6e169d4596e290641c2_homework7.pdf
+file_size: 122589
 file_type: application/pdf
 learning_resource_types:
 - Assignments

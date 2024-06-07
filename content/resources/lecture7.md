@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture Notes: Information Hiding, Exceptions.'
 file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/b98a8f146438d4fbf9a07c82f313b344_lecture7.pdf
+file_size: 253339
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
