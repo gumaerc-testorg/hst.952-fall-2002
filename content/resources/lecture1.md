@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture Notes: Medical Informatics.'
 file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/c492d8dc0c036c06d5a4cbff320523ed_lecture1.pdf
+file_size: 155143
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

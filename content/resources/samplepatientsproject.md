@@ -3,6 +3,7 @@ content_type: resource
 description: 'Projects: Laboratory information system.  Sample patient data needed
   to complete the final project.'
 file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/8c19843fe8a64bdc652f3b323e8305ba_samplepatientsproject.pdf
+file_size: 40667
 file_type: application/pdf
 learning_resource_types:
 - Projects

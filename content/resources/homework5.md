@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignments: homework-5 Ontology and Data Model'
 file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/4ada05d4439d5a5eea7fd80b51664fb6_homework5.pdf
+file_size: 46759
 file_type: application/pdf
 learning_resource_types:
 - Assignments
