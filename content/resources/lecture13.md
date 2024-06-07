@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture Notes: Boolean Algebra and Predicate Knowledge.'
 file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/4a3853dcda2b83b368fe13b6f5821259_lecture13.pdf
+file_size: 509027
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

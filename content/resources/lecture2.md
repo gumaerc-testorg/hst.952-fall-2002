@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture Notes: Algorithms and Object Oriented Programming.'
 file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/23c4fbe7342a97be824b068a0ad1910e_lecture2.pdf
+file_size: 84688
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
