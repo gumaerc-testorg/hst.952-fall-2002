@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: Homework-1'
-file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/54f504cab9f803930b6a70e0c0284459_homework1.pdf
+file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/54f504cab9f803930b6a70e0c0284459_homework1.pdf
 file_size: 22179
 file_type: application/pdf
 learning_resource_types:
