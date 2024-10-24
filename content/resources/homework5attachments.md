@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: homework-5-attachments - Ontology and Data Model'
-file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/eaef5158b18f7d1d15a95688ef56fa08_homework5attachments.pdf
+file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/eaef5158b18f7d1d15a95688ef56fa08_homework5attachments.pdf
 file_size: 64183
 file_type: application/pdf
 learning_resource_types:

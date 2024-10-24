@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: Review Session Solutions.'
-file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/2e3972ee77f632aa2d2e7c7cd09f02f1_lecture11solutions.pdf
+file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/2e3972ee77f632aa2d2e7c7cd09f02f1_lecture11solutions.pdf
 file_size: 55783
 file_type: application/pdf
 learning_resource_types:
