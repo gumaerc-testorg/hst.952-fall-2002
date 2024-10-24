@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: Ontology and Data Model.'
-file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/d61c96c10b8c1f372a488f92dde5fc6e_lecture14.pdf
+file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/d61c96c10b8c1f372a488f92dde5fc6e_lecture14.pdf
 file_size: 377689
 file_type: application/pdf
 learning_resource_types:
