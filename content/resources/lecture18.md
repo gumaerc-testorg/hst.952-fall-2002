@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: Process.'
-file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/3111e537f5ef6b44d18617f6a0cf21ec_lecture18.pdf
+file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/3111e537f5ef6b44d18617f6a0cf21ec_lecture18.pdf
 file_size: 199660
 file_type: application/pdf
 learning_resource_types:
