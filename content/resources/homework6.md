@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: homework-6 - Medical Coding Systems (continued) and UMLS'
-file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/995a9f359aa69d61cae0090bcb3d45bd_homework6.pdf
+file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/995a9f359aa69d61cae0090bcb3d45bd_homework6.pdf
 file_size: 80066
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment: homework 8 - Maintaining Integrity of Data'
-file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/2e3f67bfb9c6900122e0a51ddc79ed96_homework8.pdf
+file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/2e3f67bfb9c6900122e0a51ddc79ed96_homework8.pdf
 file_size: 19665
 file_type: application/pdf
 learning_resource_types:

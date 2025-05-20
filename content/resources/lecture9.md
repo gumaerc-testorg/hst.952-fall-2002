@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: Searching and Sorting.'
-file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/f7d8197cfbcbe801d3629a8e106c28dc_lecture9.pdf
+file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/f7d8197cfbcbe801d3629a8e106c28dc_lecture9.pdf
 file_size: 98878
 file_type: application/pdf
 learning_resource_types:

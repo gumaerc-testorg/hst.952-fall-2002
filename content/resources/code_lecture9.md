@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture 9 Code (zip file includes: TestBinarySearch.java; TestMergeSort.java;
   and TestSelectionSort.java)'
-file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/d55646e2898eb82c77f005ca66dd500e_code_lecture9.zip
+file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/d55646e2898eb82c77f005ca66dd500e_code_lecture9.zip
 file_size: 3188
 file_type: application/zip
 learning_resource_types:
