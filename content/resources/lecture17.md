@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: Major KR Schemes.'
-file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/0d20d21de83470b0045d8b7d47ebf21d_lecture17.pdf
+file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/0d20d21de83470b0045d8b7d47ebf21d_lecture17.pdf
 file_size: 336720
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment: Homework9 - Overview of Object-Oriented Data Management'
-file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/e3c3c4a4cb7b11c68b79887dc1e231a9_homework9.pdf
+file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/e3c3c4a4cb7b11c68b79887dc1e231a9_homework9.pdf
 file_size: 20857
 file_type: application/pdf
 learning_resource_types:

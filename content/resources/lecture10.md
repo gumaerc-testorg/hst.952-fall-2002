@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: Time Complexity of Algorithms.'
-file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/00ca853e5c8c3bbcaac7fb5a3394ace0_lecture10.pdf
+file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/00ca853e5c8c3bbcaac7fb5a3394ace0_lecture10.pdf
 file_size: 115287
 file_type: application/pdf
 learning_resource_types:

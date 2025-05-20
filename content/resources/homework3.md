@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: homework-3 - Searching and Sorting'
-file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/77fb25d638579a01ac8fc711fd67f483_homework3.pdf
+file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/77fb25d638579a01ac8fc711fd67f483_homework3.pdf
 file_size: 27799
 file_type: application/pdf
 learning_resource_types:
