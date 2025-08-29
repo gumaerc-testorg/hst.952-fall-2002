@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Notes: Review Session for Introduction to Computing.'
-file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/a1f6c08d9bbece9681a85422d5243138_lecture11.pdf
+file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/a1f6c08d9bbece9681a85422d5243138_lecture11.pdf
 file_size: 45585
 file_type: application/pdf
 learning_resource_types:
