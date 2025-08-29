@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: Homework 2 - Information Hiding, Exceptions'
-file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/afbbfbfdfa9eee964e6f5d8254bf1744_homework2.pdf
+file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/afbbfbfdfa9eee964e6f5d8254bf1744_homework2.pdf
 file_size: 32059
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture Notes: Designing Methods, Wrapper Classes, Arrays, Packages,
   Inheritance, Derived Classes, and Dynamic Binding.'
-file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/2fff8255d9ea69aac1e30dd684ba1574_lecture6.pdf
+file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/2fff8255d9ea69aac1e30dd684ba1574_lecture6.pdf
 file_size: 349775
 file_type: application/pdf
 learning_resource_types:

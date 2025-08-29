@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignments: homework-4 Logic and Medical Ontology'
-file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/b33df840e7aefc90426289971657130a_homework4.pdf
+file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/b33df840e7aefc90426289971657130a_homework4.pdf
 file_size: 48827
 file_type: application/pdf
 learning_resource_types:
