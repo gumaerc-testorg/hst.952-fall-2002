@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture Notes: Recursion and Iteration, Imperative & Declarative Programming,
   Abstract Data Types (ADTs), Arrays, and Classes, Object & Methods.'
-file: /courses/hst-952-computing-for-biomedical-scientists-fall-2002/a3e515acfc44ae7d5a52493504e328a0_lecture5.pdf
+file: /ol-ocw-studio-app/courses/hst-952-computing-for-biomedical-scientists-fall-2002/a3e515acfc44ae7d5a52493504e328a0_lecture5.pdf
 file_size: 323710
 file_type: application/pdf
 learning_resource_types:
